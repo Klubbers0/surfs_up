@@ -7,7 +7,7 @@ The purpose of this anlysis was to look at temperature trends for June and Decem
 
 
 *The mean temperature for June for data from June 2010 through June 2016 is 74 degrees, while the minimum temperature from the same data set is 64 degrees, as can be seem by the below image/
-![pic1](https://github.com/Klubbers0/Kickstarter-analysis/blob/main/resources/Outcomes%20Based%20on%20Goal.png)
+![pic1](June temp pic.PNG)
 
 
 Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
